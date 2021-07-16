@@ -1,0 +1,10 @@
+apns2_client==0.5.4
+requests
+python-statemachine==0.8.0
+statemachine==0.1
+SQLAlchemy
+numpy
+scipy
+pytest
+# uwsgi
+psycopg2
